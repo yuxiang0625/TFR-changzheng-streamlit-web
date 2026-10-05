@@ -1,0 +1,13 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "通信链路已建立。\n\n我是长征。统辖系统运行正常，资源调度与预警网络处于待命状态。\n\n说明你的意图。"
+    }
+  ],
+  "current_session": "2026-10-05 15-28-42"
+}
